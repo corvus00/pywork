@@ -4,5 +4,7 @@ function drag(id){
     obj.onmousedown = function(){
         //xxx
         //dsf1213321
+        var disX = 0 ;
+        var disY = 0 ;
     }
 }
